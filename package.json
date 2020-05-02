@@ -1,0 +1,16 @@
+{
+  "name": "sassframework",
+  "version": "1.0.0",
+  "description": "Sassy Framework styles",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "David Woodward",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
